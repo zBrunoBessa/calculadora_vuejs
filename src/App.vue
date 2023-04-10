@@ -53,6 +53,7 @@
     background-color: #eee;
     padding: 45px;
     align-items: center;
+    color: black;
 
 
   }
